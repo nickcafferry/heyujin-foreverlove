@@ -44,13 +44,8 @@ html_logo = 'GCC.svg'
 html_favicon = 'GCC.svg'
 html_theme_options = {
     'linkcolor': "red",
-    "external_links": [
-        {"url": "https://psspred.readthedocs.io/en/latest/README.html?badge=latest", "name": "heyujin"}
-    ],
-    "github_url": "https://github.com/nickcafferry/heyujin-foreverlove",
-
 }
 html_sidebars = {
    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
-   'using/windows': ['windowssidebar.html', 'searchbox.html','playground.html'],
+   'using/windows': ['windowssidebar.html', 'searchbox.html'],
 }

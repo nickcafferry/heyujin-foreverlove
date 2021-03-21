@@ -1,3 +1,6 @@
+#        git clone https://github.com/sphinx-doc/sphinx
+#        cd sphinx
+#        pip3 install .
 name: deploy
 
 on:
@@ -33,9 +36,7 @@ jobs:
     - name: Install sphinx
       run: |
         cd ..
-        git clone https://github.com/sphinx-doc/sphinx
-        cd sphinx
-        pip3 install .
+        pip3 install git+https://github.com/sphinx-doc/sphinx
         pip3 install sphinx_rtd_theme
         pip3 install jieba
     

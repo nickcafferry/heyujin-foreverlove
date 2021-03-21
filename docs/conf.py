@@ -45,7 +45,7 @@ html_favicon = 'GCC.svg'
 html_theme_options = {
     'linkcolor': "red",
     "external_links": [
-        {"url": "https://psspred.readthedocs.io/en/latest/README.html?badge=latest", "name": "何玉金"}
+        {"url": "https://psspred.readthedocs.io/en/latest/README.html?badge=latest", "name": "heyujin"}
     ],
     "github_url": "https://github.com/nickcafferry/heyujin-foreverlove",
 

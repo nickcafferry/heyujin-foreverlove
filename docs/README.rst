@@ -1,4 +1,4 @@
-`PSSpred <https://github.com/nickcafferry/PSSpred>`_
+`Foreverlove-Heyujin <https://github.com/nickcafferry/PSSpred>`_
 ===============
 
 |Workflow| |Licence| |Travis| |Codecov| |Appveyor| |Documentation Status| |Gitter| |Circleci|

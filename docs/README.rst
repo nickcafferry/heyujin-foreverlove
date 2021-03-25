@@ -37,6 +37,3 @@ Copyright |copy| Wei MEI, |MLMS (TM)| |---| all rights reserved. |bamboo|
    :trim:
 
 .. |bamboo| unicode:: 0x1F024 .. bamboo
-
-
-https://foreverlove-heyujin.readthedocs.io/en/master/_static/shewithcatvideocut1.MOV

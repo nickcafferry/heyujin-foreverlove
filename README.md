@@ -1,6 +1,6 @@
 # heyujin-foreverlove
 
-[![Documentation Status](https://readthedocs.org/projects/foreverlove-heyujin/badge/?version=main)](https://foreverlove-heyujin.readthedocs.io/en/main/?badge=main)
+[![Documentation Status](https://foreverlove-heyujin.readthedocs.io/en/master/README.html)](https://foreverlove-heyujin.readthedocs.io/en/master/?badge=main)
 
 
 

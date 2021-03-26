@@ -4,7 +4,7 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath("../../manim/"))
 
-project = u'Foreverlove-for-She-Heyujin'
+project = u'Foreverlove-for-Her-Heyujin'
 copyright = u'- Wei MEI (Nick Cafferry)'
 author = u'Wei MEI'
 

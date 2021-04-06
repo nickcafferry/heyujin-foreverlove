@@ -37,3 +37,8 @@ Copyright |copy| Wei MEI, |MLMS (TM)| |---| all rights reserved. |bamboo|
    :trim:
 
 .. |bamboo| unicode:: 0x1F024 .. bamboo
+---------------------------------------------------------------
+
+.. raw:: html
+
+      <img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://foreverlove-heyujin.readthedocs.io/en/master/_static/herphoto.jpg" width="1024" height="960">

@@ -50,7 +50,7 @@ jobs:
         echo "heyujin-foreverlove.ink" > CNAME
         
     - name: Deploy to GitHub pages
-      uses: JamesIves/github-pages-deploy-action@master
+      uses: JamesIves/github-pages-deploy-action@dev
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages

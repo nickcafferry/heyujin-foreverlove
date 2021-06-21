@@ -48,10 +48,10 @@ jobs:
         make html
         cd build/html
         echo "heyujin-foreverlove.ink" > CNAME
-        
+  
     - name: Deploy to GitHub pages
       uses: JamesIves/github-pages-deploy-action@4.1.4
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
+        BRANCH: releases/v4
         FOLDER: build/html
